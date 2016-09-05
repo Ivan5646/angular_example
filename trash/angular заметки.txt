@@ -1,0 +1,17 @@
+Trying to follow the video
+hash logs blue dot and angular.js:11607, not hash itself
+
+
+to run a server 
+http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535
+create server.js 
+$ node server.js
+
+
+Problems
+ - angular.js:9827 GET http://localhost:3001/first.html 404 (Not Found)
+Server problm? http://stackoverflow.com/questions/27710037/angularjs-templateurl-file-location-not-found
+- How then to run a server properly? Used open server for now.
+
+
+как перейти к папке в адресной строке openserver? типа http://localhost/domains/angular/index.html
